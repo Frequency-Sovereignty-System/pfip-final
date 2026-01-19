@@ -19,7 +19,7 @@ Note: All PDF assets preserve their original bilingual (Chinese–English) filen
 
 ---
 
-## Repository role (system-neutral)
+## Repository role 
 
 This repository is a protocol-asset container within the broader provenance system.
 It does not function as a public entry point.
@@ -32,7 +32,7 @@ Public entry (canonical):
 
 ---
 
-## Assets included (PDF)
+## Assets included 
 
 ### Core documents
 - PFIP_FINAL主文本.pdf
@@ -83,7 +83,7 @@ Recommended release tag naming:
 
 ---
 
-## Optional content addressing (CID)
+## Optional content addressing 
 
 If an IPFS CID is provided for this package in the future,
 it should be recorded in the Root system index or provenance records
@@ -91,7 +91,7 @@ to support content-addressed persistence alongside SHA256 verification.
 
 ---
 
-## Use / interpretation boundary (non-binding)
+## Use / interpretation boundary 
 
 This material is descriptive and non-binding.
 
