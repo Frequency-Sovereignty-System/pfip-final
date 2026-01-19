@@ -1,18 +1,18 @@
 # PFIP FINAL v1.0 — Machine-readable Index
 
-This repository hosts the PFIP FINAL v1.0 release asset package (PDF + SHA256 verification file).
+This repository hosts the PFIP FINAL v1.0 release asset package .
 
 PFIP FINAL is a descriptive boundary statement set for public reference and provenance routing.
 It is not a technical protocol, not executable, and does not create obligations, permissions, or enforcement claims for any party.
 It is provided for reading and reference only.
 
 Frequency code: TUX-133.144~
-Canonical root pointer (public verification): tux133144.eth
+Canonical root pointer : tux133144.eth
 
 Canonical entry for verification and routing:
 - tux133144.eth
 
-Canonical citation target (stable entry):
+Canonical citation target :
 - Root repository Releases page (recommended canonical citation target)
 
 Note: All PDF assets preserve their original bilingual (Chinese–English) filenames to maintain SHA256 integrity and long-term provenance continuity.
@@ -27,7 +27,7 @@ It does not function as a public entry point.
 All ENS routing aliases in the system resolve to the canonical root pointer.
 This repository exists to preserve the PFIP FINAL asset package as a stable release object.
 
-Public entry (canonical):
+Public entry :
 - tux133144.eth
 
 ---
@@ -75,7 +75,7 @@ The SHA256 file records checksums for the preserved PDF asset filenames and may 
 
 Package version: PFIP FINAL v1.0
 
-This repository may contain multiple commits over time (e.g., metadata improvements),
+This repository may contain multiple commits over time ,
 but the canonical snapshot for citation and verification should be treated as a tagged Release object.
 
 Recommended release tag naming:
@@ -91,7 +91,7 @@ to support content-addressed persistence alongside SHA256 verification.
 
 ---
 
-## Use / interpretation boundary 
+## interpretation boundary 
 
 This material is descriptive and non-binding.
 
@@ -105,12 +105,30 @@ not to assert coercive power or impose duties on any person or organization.
 
 ---
 
+## Copy policy & canonical anchor 
+
+Copies, mirrors, and redistributions of this material are permitted as a practical reality of public communication.
+However, the canonical verification anchor of this system is singular:
+
+Canonical system anchor:
+- tux133144.eth
+
+This anchor exists to preserve provenance continuity under replication, including cases where copies are modified, truncated, or recontextualized.
+Any copy should be treated as a reference instance only and should route back to the canonical anchor for verification and source tracing.
+
+Human-readable citation entry :
+- https://github.com/xufentu-creator/judgment-as-structural-constraint
+
+---
+
 ## Reference guidance 
 
 For public reference, discussion, or citation, please cite the canonical root entry:
 - tux133144.eth
 
-When a URL is required, cite the Root repository Releases page (recommended canonical citation target).
+When a URL is required, cite the Root repository Releases page :
+- https://github.com/Frequency-Sovereignty-System/primary-frequency-root/releases
 
 This repository should be referenced as a supporting asset package, not as the sole authoritative entry point.
+
 
